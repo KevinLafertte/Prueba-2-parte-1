@@ -1,6 +1,6 @@
 # ¡IMPORTANTE LEER!
 
-Cambios que se realizaron a los distintos componentes de bootstrap:
+**Cambios que se realizaron a los distintos componentes de bootstrap:**
 
 -Todos los componentes probados cuentan con **observadores** de distintos tipos.
 
