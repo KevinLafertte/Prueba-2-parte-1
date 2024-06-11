@@ -13,7 +13,7 @@
 -Offcanvas cuenta con **evento onclick** en línea, en h5, que al hacer click lo modifica con un **innerHTML** hacia otro mensaje asignado.
 
 
-**Prueba 2, primera parte.**
+**PRUEBA 2, PRIMERA PARTE.**
 
 //////**ACTUALIZACIÓN 10-06-2024**//////
 -  Se agregaron más datas modificados. See encuentran en la parte dos del proyecto.
