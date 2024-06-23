@@ -16,5 +16,5 @@
 **PRUEBA 2, PRIMERA PARTE.**
 
 //////**ACTUALIZACIÓN 10-06-2024**//////
--  Se agregaron más datas modificados. See encuentran en la parte dos del proyecto.
+-  Se agregaron más datas modificados. Se encuentran en la parte dos del proyecto.
 
